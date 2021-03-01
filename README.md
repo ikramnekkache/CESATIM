@@ -1,5 +1,5 @@
 # CESATIM
-This package contains the source code of the CESATIM Solver proposed in I. Nekkache, S. Jabbour, L. Sais:   Towards a Compact SAT-based Encoding ofItemset Mining Tasks. In: The 18th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, Vienna, Austria, July 5th-July 8th, 2021. 
+This package contains the source code of the CESATIM Solver proposed in I. Nekkache, S. Jabbour, L. Sais:   Towards a Compact SAT-based Encoding ofItemset Mining Tasks. In: CPAIOR 2021 - The 18th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, Vienna, Austria, July 5th-July 8th, 2021. 
 
 The source codes is already compiled.
 In case you modify the code, make sur you compile the code in core folder with one of the following commands:
